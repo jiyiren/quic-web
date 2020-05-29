@@ -4,7 +4,7 @@
 
 **HTTP1.1** VS **HTTP2** VS **HTTP3** 加载速度对比: [https://demo.godjiyi.cn](https://demo.godjiyi.cn)
 
-![](./_img/quic.png)
+![](./_img/quic.jpg)
 
 <a href="./_img/quic46.png" target="_blank">大图1<a/> <a href="./_img/quic50.png" target="_blank">大图2<a/>  <a href="./_img/http3.png" target="_blank">大图3<a/>
 
