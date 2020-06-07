@@ -6,9 +6,7 @@
 
 加载速度:
 
-<p align="center">
-<img alt="logo" width="800" height="350" src="./_img/quicvshttp.gif" alt="quic-apply">
-</p>
+![](./_img/quicvshttp.gif)
 
 协议截图:
 
