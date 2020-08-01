@@ -18,7 +18,7 @@
 
 * Chrome 浏览器目前仅支持自家的 QUIC，quic/46 是完全自家的，h3-Q050 这则是 gquic 逐渐向 IETF 规范靠拢；
 * Firefox 浏览器则支持的是 IETF 官方 HTTP3，但 HTTP3 仍在草稿中，因此实现的是 HTTP3 各个阶段的 Draft 手稿协议。
-* 详细说明 QUIC 和 HTTP3 区别见。
+* 详细说明 QUIC 和 HTTP3 区别见 [QUIC/HTTP3说明](https://www.godjiyi.cn/2020/05/29/quic-explain-build/)。
 
 ### 文件结构
 
